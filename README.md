@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ExtJS does not come with multi-check dropdown. So I thought to build one -
 
 ## Ext.ux.PerCheckCombo
